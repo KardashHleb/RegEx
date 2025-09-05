@@ -1,0 +1,14 @@
+D:\prog\VS proj\1\2\RegExTask\RegExTask\bin\Debug\net8.0\RegExTask.exe
+D:\prog\VS proj\1\2\RegExTask\RegExTask\bin\Debug\net8.0\RegExTask.deps.json
+D:\prog\VS proj\1\2\RegExTask\RegExTask\bin\Debug\net8.0\RegExTask.runtimeconfig.json
+D:\prog\VS proj\1\2\RegExTask\RegExTask\bin\Debug\net8.0\RegExTask.dll
+D:\prog\VS proj\1\2\RegExTask\RegExTask\bin\Debug\net8.0\RegExTask.pdb
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.AssemblyInfoInputs.cache
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.AssemblyInfo.cs
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.csproj.CoreCompileInputs.cache
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.dll
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\refint\RegExTask.dll
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.pdb
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\RegExTask.genruntimeconfig.cache
+D:\prog\VS proj\1\2\RegExTask\RegExTask\obj\Debug\net8.0\ref\RegExTask.dll
